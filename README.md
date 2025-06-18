@@ -1,51 +1,62 @@
-# 👋 Hi, I'm Sami Bouhraoua
-
-🎓 *Web & AI development student based in Montréal, Canada*  
-💻 *Passionate about building clean, fast, and user-centered web and mobile applications using modern technologies*
-
----
-
-## 💼 About Me
-
-I'm currently completing a college diploma (DEC) in Web Development and Artificial Intelligence.  
-I enjoy turning complex problems into simple, functional, and elegant solutions.
-
-I focus on writing clean, efficient code and building responsive, accessible interfaces.  
-My interests include web apps, mobile apps, cloud integration, and AI-powered tools.
+<h1 align="center">👋 Hey, I'm Sami Bouhraoua</h1>
+<p align="center">
+  🚀 Web & AI Developer | 💡 Creative Thinker | 📍 Montréal, Canada
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-- **Languages**: HTML, CSS, JavaScript, PHP, Python  
-- **Frameworks**: Bootstrap, Laravel, React, Flutter  
-- **Databases**: MySQL, SQLite  
-- **Tools**: Git, GitHub, VS Code, Figma, Postman
+I'm a passionate developer focused on creating **fast**, **clean**, and **user-first** web & mobile apps.  
+Currently completing a **college diploma in Web & AI development**, I love building projects that solve real problems and improve the user experience.
 
----
-
-## 🚀 Projects
-
-> 🔽 *More to come — stay tuned!*
-
-- 📌 [gestion-recettes](https://github.com/ton-compte/gestion-recettes)  
-  *Recipe management web app with user login, admin panel, and pagination*
-
-- 📌 [maillots-showcase](https://github.com/ton-compte/maillots-showcase)  
-  *Interactive jersey display using ASP.NET with horizontal scrolling*
-
-- 📌 [ai-chatbot-test](https://github.com/ton-compte/ai-chatbot-test)  
-  *Simple AI chatbot prototype built with Python and Flask*
+🔍 Always exploring new technologies.  
+🎯 Always striving for code that’s elegant and efficient.  
+🤝 Always open to collaboration.
 
 ---
 
-## 📫 Contact
+## 🔧 Tech Toolbox
 
-- Email: [samibouhraoua5@gmail.com](mailto:samibouhraoua5@gmail.com)  
-- LinkedIn: *(à ajouter si tu en as un)*  
-- Portfolio: *(tu peux l’ajouter quand il sera prêt)*
+Here are some of the tools and technologies I use regularly:
+
+<div align="center">
+
+| 🧠 Languages | ⚙️ Frameworks | 🗄️ Databases | 🔧 Tools |
+|-------------|----------------|---------------|----------|
+| HTML, CSS, JS, PHP, Python | Laravel, React, Flutter, Bootstrap | MySQL, SQLite | Git, GitHub, VS Code, Figma, Postman |
+
+</div>
 
 ---
 
-> 💡 *Always learning. Always building.*
+## 🚀 Featured Projects
 
+🌟 I love to build things. Here are a few projects I'm proud of:
+
+- [`gestion-recettes`](https://github.com/ton-compte/gestion-recettes)  
+  🍲 A full-featured recipe manager with login, admin, pagination, and printing options.
+
+- [`maillots-showcase`](https://github.com/ton-compte/maillots-showcase)  
+  👕 A jersey gallery with dynamic ASP.NET rendering and horizontal scrolling.
+
+- [`ai-chatbot-test`](https://github.com/ton-compte/ai-chatbot-test)  
+  🤖 A simple AI chatbot prototype using Flask and Python.
+
+> 🧠 More projects coming soon — I build and learn every day!
+
+---
+
+## 📬 Let's Connect
+
+Want to collaborate or just say hello? Reach out!
+
+- ✉️ Email: [samibouhraoua5@gmail.com](mailto:samibouhraoua5@gmail.com)  
+- 🌐 Portfolio: *Coming soon!*  
+- 💼 LinkedIn: *Coming soon!*  
+
+---
+
+<p align="center">
+  ⚡ "Code is not just syntax — it's a craft, a vision, and a solution."
+</p>
