@@ -7,29 +7,29 @@
 
 ---
 
-## 🧠 Who Am I?
+##  Who Am I?
 
 I'm **Sami Bouhraoua**, an enthusiastic developer passionate about technology, clean code, and user experience.
 
-🎓 Currently completing my **DEC in Web & Mobile Development and Artificial Intelligence** in Montréal  
-🧱 I enjoy building scalable and modern solutions, from backend logic to responsive frontends  
-🚀 I learn by doing — always experimenting with new tools, frameworks, and ideas  
-🧠 I’m deeply interested in AI, automation, and intelligent systems that can improve human workflows  
+- Currently completing my **DEC in Web & Mobile Development and Artificial Intelligence** in Montréal  
+- I enjoy building scalable and modern solutions, from backend logic to responsive frontends  
+- I learn by doing — always experimenting with new tools, frameworks, and ideas  
+- I’m deeply interested in AI, automation, and intelligent systems that can improve human workflows  
 
 ---
 
-## 🎯 What I Can Do
+##  What I Can Do
 
-- 🖥️ Build dynamic, responsive websites and mobile-first interfaces  
-- 🔐 Implement secure user authentication and admin systems  
-- 📦 Develop REST APIs and connect to relational/non-relational databases  
-- 🔍 Debug, test, and optimize apps for performance and usability  
+-  Build dynamic, responsive websites and mobile-first interfaces  
+-  Implement secure user authentication and admin systems  
+-  Develop REST APIs and connect to relational/non-relational databases  
+-  Debug, test, and optimize apps for performance and usability  
 
 ---
 
-### 🛠️ Languages & Tools I Use
+###  Languages & Tools I Use
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center"> Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -42,7 +42,7 @@ I'm **Sami Bouhraoua**, an enthusiastic developer passionate about technology, c
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-<h3 align="center">🧱 Frameworks & Libraries</h3>
+<h3 align="center"> Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -52,14 +52,14 @@ I'm **Sami Bouhraoua**, an enthusiastic developer passionate about technology, c
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
-<h3 align="center">🗃️ Databases</h3>
+<h3 align="center"> Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-<h3 align="center">🧩 Tools & Platforms</h3>
+<h3 align="center"> Tools & Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -72,20 +72,15 @@ I'm **Sami Bouhraoua**, an enthusiastic developer passionate about technology, c
 
 ---
 
-## 🚀 Highlighted Projects
+##  Highlighted Projects
 
 🔧 [**gestion-recettes**](https://github.com/samibouhraoua/gestion-recettes)  
 > Web app for managing recipes with authentication, admin dashboard, pagination & print-ready formats.
 
-🤖 [**ai-chatbot-demo**](https://github.com/samibouhraoua/ai-chatbot-demo)  
-> A simple AI chatbot using Flask + OpenAI, demonstrating NLP capabilities.
-
-🎽 [**maillots-showcase**](https://github.com/samibouhraoua/maillots-showcase)  
-> ASP.NET dynamic catalog of football jerseys with responsive layout and visual filtering.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:samibouhraoua5@gmail.com">
@@ -98,10 +93,10 @@ I'm **Sami Bouhraoua**, an enthusiastic developer passionate about technology, c
 
 ---
 
-## 💬 Quote That Drives Me
+##  Quote That Drives Me
 
 > *“Great software is not built in silence — it's shaped through curiosity, passion, and code.”*
 
 ---
 
-<p align="center">🔥 Let’s build smart, clean, and meaningful things together.</p>
+<p align="center"> Let’s build smart, clean, and meaningful things together.</p>
